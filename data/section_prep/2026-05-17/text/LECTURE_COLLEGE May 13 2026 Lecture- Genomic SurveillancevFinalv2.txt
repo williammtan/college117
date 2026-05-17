@@ -1,0 +1,204 @@
+
+--- page 1 ---
+Data Justice & Genomic
+Surveillance
+COLLEGE 117
+May 13, 2026
+Professor Daphne Martschenko
+Professor Nicole Martinez
+--- page 2 ---
+Guiding Questions:
+1. Who benefits and who is harmed by genomic
+surveillance?
+2. What kinds of trade-offs are raised by
+genomic surveillance?
+--- page 3 ---
+Genomic Surveillance
+• Use of genomics to track infectious diseases by sequencing
+the genomes of bacteria, parasites and viruses.
+• The process of constantly monitoring pathogens and
+analyzing their genetic similarities and differences.
+--- page 4 ---
+
+--- page 5 ---
+Genomic Surveillance
+During Covid-19 pandemic, WHO endorsed genomic
+surveillance as a worldwide priority
+Other examples of where genomic surveillance has been useful:
+- Ebola virus disease
+- influenza
+--- page 6 ---
+
+--- page 7 ---
+
+--- page 8 ---
+
+--- page 9 ---
+
+--- page 10 ---
+Benefits of Genomic Surveillance
+1. Early detection and outbreak tracking
+• Catching people before they interact with too many
+others
+• Identifying who has been exposed to an infected person
+2. Vaccine and diagnostic development
+• Can help identify pathogens to target in vaccines
+3. Tracking antimicrobial resistance (AMR)
+• Earlier detection of dangerous resistant strains
+4. The more data collected, the more patterns become visible.
+• Reducing uncertainty increases predictive power.
+--- page 11 ---
+Benefits of Genomic Surveillance
+Informing public health policy
+• Guide decisions regarding the introduction of
+pharmacological and non-pharmacological interventions
+• Has the promise of overcoming inequalities in access to
+infectious disease diagnostics and control interventions
+• An important tool for early detection of novel and endemic
+pathogens in low-resource settings (low-resource settings
+that are disproportionately affected by outbreak risk)
+Genomic surveillance as a global public good!
+--- page 12 ---
+Justice
+--- page 13 ---
+Justice & Genomic
+Surveillance
+Genomic surveillance remains expensive.
+• Initial investments to establish
+sequencing and bioinformatics
+capacity are estimated to be
+US$100,000–$700,000.
+• Cost per sequence range from
+US$20–$200
+• Poor countries can pay up to 10-fold
+more than high-income countries
+--- page 14 ---
+Existing surveillance and laboratory system capacity determines the overall
+utility of applying genomic surveillance to various pathogens
+--- page 15 ---
+
+--- page 16 ---
+
+--- page 17 ---
+
+--- page 18 ---
+Relationship (or trade-off) between
+liberty/autonomy and security/safety
+--- page 19 ---
+
+--- page 20 ---
+Relationship (or trade-off) between privacy
+and security/safety
+--- page 21 ---
+Patients vs. Participants
+Private industry is increasingly asking hospital
+systems to consider whether they are willing to
+share or sell (i.e., ‘commercialize’) biospecimens
+and health data in both identified forms and de-
+identified forms (Spector-Bagdady, 2021)
+--- page 22 ---
+
+--- page 23 ---
+retraction = one of the ten rules of socially responsible science
+--- page 24 ---
+
+--- page 25 ---
+• The government has been collecting DNA samples to match
+with biometric data from residents of the southern border
+provinces
+• DNA collection has become a part of the military conscription
+process for men residing in the southern provinces of Thailand
+• Products from Thermo Fisher Scientific, QIAGEN and Promega
+appear to be used by the Thai police force.
+--- page 26 ---
+What is “CODIS”?
+CODIS=Combined DNA Index System
+●
+FBI databases, the software used to maintain
+●
+them and perform analyses, and the genetic
+loci sequenced for these purposes
+DNA Identification Act of 1994 approved the
+●
+creation of an “index,” or database that can
+be searched for genetic matches
+Used for criminal proceedings and
+○
+identifying human remains
+(Image: Biometric Analysis: Combined DNA
+26
+Index System (CODIS). FBI.gov)
+--- page 27 ---
+Databases are searched for
+matches to crime scene DNA
+● There are national, state, and local databases (Office of
+the Inspector General. 2006. CODIS Audit.)
+● Partial-matches to crime scene DNA are used for
+familial searches in a number of states (Grabell,
+Shomron. 2021. Methods Mol Bio.)
+● After 2013 Supreme Court decision Maryland v King,
+arrestees, regardless of conviction status, can have
+DNA collected and added to CODIS databases in 30
+states (FBI.gov)
+27
+--- page 28 ---
+California allows arrestees to be added to CODIS
+database and, being the most populous state, has
+the most information in the FBI database
+Total
+Arrestee (Not 909,059
+convicted)
+Offender 2,152,679
+(Convicted)
+Investigations 102,341
+aided
+28
+(Data reformatted from : CODIS and NDIS statistics. 2021. FBI.gov.)
+--- page 29 ---
+Relationship (or trade-off) between individual
+and the collective
+--- page 30 ---
+Genomic data affects families and populations, not only
+single persons.
+--- page 31 ---
+31
+--- page 32 ---
+32
+--- page 33 ---
+33
+--- page 34 ---
+34
+--- page 35 ---
+
+--- page 36 ---
+Broader data
+collection =/= justice
+--- page 37 ---
+Bias
+• In AI: An unfair systematic error that
+leads to an incorrect estimate of effect
+or association
+• Broadly: prejudice in favor of or against
+one thing, person, or group compared
+with another, usually in a way
+considered to be unfair
+Discrimination is underlying ethical
+concern related to bias
+37
+--- page 38 ---
+“Considering the
+disproportionate
+representation of racial
+minorities in law enforcement
+DNA databases, certain
+individuals have a higher risk
+of being targeted for
+investigation simply because
+genetic relatives are
+represented in the CODIS
+database.”
+(federaljudicialcenter.gov)
+(Images: Court, Denise. 2021. Nature Computational Science.)
+--- page 39 ---
+
+--- page 40 ---
