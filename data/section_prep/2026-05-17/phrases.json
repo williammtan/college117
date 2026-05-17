@@ -1,0 +1,65 @@
+{
+  "/home/user/college117/files/08_Week 8: Environmental Justice/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.pdf": {
+    "title": "Crawford — Earth: AI's Planetary Extraction Costs",
+    "argument": [
+      "the business of mining has only been profitable because it does not have to account for its true costs",
+      "those who profit from mining do so only because the costs must be sustained by others, those living and those not yet born",
+      "The greatest benefits of extraction have been captured by the few.",
+      "the carbon footprint of the world's computational infrastructure has matched that of the aviation industry at its height",
+      "In reality, it takes a gargantuan amount of energy to run the computational infrastructures of Amazon Web Services or Microsoft's Azure",
+      "And AI extracts far more from us and the planet than is widely known.",
+      "Artificial intelligence is another kind of megamachine",
+      "the mines that drive AI are everywhere: not only sited in discrete locations but diffuse and scattered across the geography of the earth",
+      "extraction for the technology sector is done by keeping the real costs out of sight.",
+      "The corporate imaginaries of AI fail to depict the lasting costs and long histories of the materials needed to build computational infrastructures"
+    ],
+    "evidence": [
+      "the black lake contains more than 180 million tons of waste powder from ore processing",
+      "Tesla is estimated to use more than twenty-eight thousand tons of lithium hydroxide annually—half of the planet's total consumption",
+      "China supplies 95 percent of the world's rare earth minerals.",
+      "running only a single NLP model produced more than 660,000 pounds of carbon dioxide emissions",
+      "One container ship is estimated to emit as much pollution as fifty million cars",
+      "China's data center industry draws 73 percent of its power from coal, emitting about 99 million tons of CO2 in 2018.",
+      "the average smartphone life span is a mere 4.7 years",
+      "the tech sector will contribute 14 percent of global greenhouse emissions by 2040",
+      "the amount of compute used to train a single AI model has increased by a factor of ten every year",
+      "99.8 percent of earth removed in rare earth mining is discarded as waste, called 'tailings,' that are dumped back into the hills and streams"
+    ],
+    "concept": [
+      "The new extractivism of data mining also encompasses and propels the old extractivism of traditional mining.",
+      "From the perspective of deep time, we are extracting Earth's geological history to serve a split second of contemporary technological time",
+      "Computational media now participate in geological (and climatological) processes",
+      "the planetary mine expands and reconstitutes extraction into novel arrangements, extending the practices of mines into new spaces and interactions around the world",
+      "Just as Victorians precipitated ecological disaster for their early cables, so do contemporary mining and global supply chains further imperil the delicate ecological balance of our era.",
+      "metaphors like \"the cloud\" imply something floating and delicate within a natural, green industry",
+      "we should think of the skyscrapers of San Francisco as inverted minescapes",
+      "Lewis Mumford developed the concept of the megamachine to illustrate how all systems, no matter how immense, consist of the work of many individual human actors.",
+      "The mining that makes AI is both literal and metaphorical.",
+      "Each object in the extended network of an AI system, from network routers to batteries to data centers, is built using elements that required billions of years to form inside the earth."
+    ],
+    "application": [
+      "In addition, Intel and Apple have been criticized for auditing only smelters",
+      "Microsoft, Google, and Amazon all license their AI platforms, engineering workforces, and infrastructures to fossil fuel companies to help them locate and extract fuel from the ground",
+      "the city of Bluffdale had already made a multiyear deal with the NSA, in which the city would sell water at rates well below the average in return for the promise of economic growth",
+      "Each Tesla Model S electric car needs about one hundred thirty-eight pounds of lithium for its battery pack.",
+      "It took Intel more than four years of sustained effort to develop basic insight into its own supply chain.",
+      "miners who are not officially employed sit on makeshift pontoons, using bamboo poles to scrape the seabed before diving underwater to suck tin from the surface",
+      "working conditions inside the mines have often amounted to modern slavery.",
+      "In 2014, Rockwood Holdings, Inc., a lithium mining operation, was acquired by the chemical manufacturing company Albemarle Corporation for $6.2 billion.",
+      "charging an electric car necessitates taking power from the grid, where currently less than a fifth of all electricity in the United States comes from renewable energy sources.",
+      "the electricity demands of data centers alone will increase about fifteenfold by 2030"
+    ],
+    "implication": [
+      "water that is used to cool servers is being taken away from communities and habitats that rely on it to live.",
+      "the most severe costs of global logistics are borne by the Earth's atmosphere, the oceanic ecosystem",
+      "Ignorance of the supply chain is baked into capitalism",
+      "It is by thinking about these issues together that we can work toward greater justice.",
+      "forms of exploitation of human labor and natural resources and massive concentrations of corporate and geopolitical power.",
+      "This contributes to our sense of the cloud being out of sight and abstracted away, when in fact it is material, affecting the environment and climate in ways that are far from being fully recognized and accounted for.",
+      "algorithmic computing, computational statistics, and artificial intelligence were developed in the twentieth century to address social and environmental challenges but would later be used to intensify industrial extraction and exploitation and further deplete environmental resources.",
+      "the scale required to build artificial intelligence systems is too complex, too obscured by intellectual property law, and too mired in logistical and technical complexity for us to see into it all.",
+      "legacies of human and environmental damage that have powered the tech industry.",
+      "San Francisco now has one of the highest rates of street homelessness in the United States."
+    ]
+  }
+}

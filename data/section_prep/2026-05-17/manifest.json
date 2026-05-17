@@ -1,0 +1,84 @@
+{
+  "target": "2026-05-17",
+  "current": {
+    "date": "2026-05-18",
+    "weekday": "Monday",
+    "title": "",
+    "week_number": 8,
+    "week_title": "Environmental Justice",
+    "required": [
+      "Kate Crawford, [Atlas of AI, Chapter 1: Earth](https://research-ebsco-com.stanford.idm.oclc.org/c/qmsjx4/search/details/2dbvgctppz?request-context=plink&db=nlebk)",
+      "Keisha Ray and Jane Fallis Cooper. 2023. “[The Bioethics of Environmental Injustice: Ethical, Legal, and Clinical Implications of Unhealthy Environments](https://www.tandfonline.com/doi/full/10.1080/15265161.2023.2201192?casatoken=rVBXQMQ7qEAAAAA%3A-XFP4lUhm0XAGag6kd7dYWblTX-6KOXD1-nlMGdceF6nXj7vn-hGbvKKZc0W51F7hfHB4ZKrJi8AQAabstract).” The American Journal of Bioethics. ---"
+    ]
+  },
+  "previous": {
+    "date": "2026-05-13",
+    "weekday": "Wednesday",
+    "title": "Genomic surveillance (China & EU Case studies):",
+    "week_number": 7,
+    "week_title": "Data & Justice Assignment 2 Is Due This Week",
+    "required": [
+      "Moreau, Y. (2019). Crack down on genomic surveillance. Nature, 576(7785), 36–38. [https://doi.org/10.1038/d41586-019-03687-x](https://doi.org/10.1038/d41586-019-03687-x)",
+      "Hawkins, A. (2023) Academic paper based on Uyghur genetic data retracted over ethical concerns. The Guardian [https://www.theguardian.com/world/2023/dec/29/academic-paper-uyghur-genetic-data-retracted-ethical-concerns](https://www.theguardian.com/world/2023/dec/29/academic-paper-uyghur-genetic-data-retracted-ethical-concerns)",
+      "Imbler, Sabrina. “The DNA of Roma People Has Long Been Misused, Scientists Reveal.” The New York Times, November 17, 2021. [https://www.nytimes.com/2021/11/17/science/genetics-ethics-roma.html](https://www.nytimes.com/2021/11/17/science/genetics-ethics-roma.html)."
+    ]
+  },
+  "readings": [
+    {
+      "session": "current",
+      "session_date": "2026-05-18",
+      "citation": "Kate Crawford, [Atlas of AI, Chapter 1: Earth](https://research-ebsco-com.stanford.idm.oclc.org/c/qmsjx4/search/details/2dbvgctppz?request-context=plink&db=nlebk)",
+      "matched_file": "/home/user/college117/files/08_Week 8: Environmental Justice/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.pdf",
+      "match_score": 0.8,
+      "external_only": false,
+      "text_file": "/home/user/college117/data/section_prep/2026-05-17/text/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.txt",
+      "chars": 57452
+    },
+    {
+      "session": "current",
+      "session_date": "2026-05-18",
+      "citation": "Keisha Ray and Jane Fallis Cooper. 2023. “[The Bioethics of Environmental Injustice: Ethical, Legal, and Clinical Implications of Unhealthy Environments](https://www.tandfonline.com/doi/full/10.1080/15265161.2023.2201192?casatoken=rVBXQMQ7qEAAAAA%3A-XFP4lUhm0XAGag6kd7dYWblTX-6KOXD1-nlMGdceF6nXj7vn-hGbvKKZc0W51F7hfHB4ZKrJi8AQAabstract).” The American Journal of Bioethics. ---",
+      "matched_file": "/home/user/college117/files/08_Week 8: Environmental Justice/Keisha Ray and Jane Fallis Cooper. (2023). \"The Bioethics of Environmental Injustice.\".ExternalUrl.url",
+      "match_score": 0.675,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2509151"
+    },
+    {
+      "session": "previous",
+      "session_date": "2026-05-13",
+      "citation": "Moreau, Y. (2019). Crack down on genomic surveillance. Nature, 576(7785), 36–38. [https://doi.org/10.1038/d41586-019-03687-x](https://doi.org/10.1038/d41586-019-03687-x)",
+      "matched_file": "/home/user/college117/files/07_Week 7: Data & Justice/Moreau, Y. (2019). Crack down on genomic surveillance..ExternalUrl.url",
+      "match_score": 0.892,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2509144"
+    },
+    {
+      "session": "previous",
+      "session_date": "2026-05-13",
+      "citation": "Hawkins, A. (2023) Academic paper based on Uyghur genetic data retracted over ethical concerns. The Guardian [https://www.theguardian.com/world/2023/dec/29/academic-paper-uyghur-genetic-data-retracted-ethical-concerns](https://www.theguardian.com/world/2023/dec/29/academic-paper-uyghur-genetic-data-retracted-ethical-concerns)",
+      "matched_file": "/home/user/college117/files/07_Week 7: Data & Justice/Hawkins, A. (2023) Academic paper based on Uyghur genetic data retracted over ethical concerns.ExternalUrl.url",
+      "match_score": 0.946,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2509145"
+    },
+    {
+      "session": "previous",
+      "session_date": "2026-05-13",
+      "citation": "Imbler, Sabrina. “The DNA of Roma People Has Long Been Misused, Scientists Reveal.” The New York Times, November 17, 2021. [https://www.nytimes.com/2021/11/17/science/genetics-ethics-roma.html](https://www.nytimes.com/2021/11/17/science/genetics-ethics-roma.html).",
+      "matched_file": "/home/user/college117/files/07_Week 7: Data & Justice/Imbler, Sabrina. “The DNA of Roma People Has Long Been Misused, Scientists Reveal.”.ExternalUrl.url",
+      "match_score": 0.861,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2509146"
+    }
+  ],
+  "lecture": {
+    "session_date": "2026-05-13",
+    "title": "Genomic surveillance (China & EU Case studies):",
+    "file": "/home/user/college117/files/07_Week 7: Data & Justice/COLLEGE May 13 2026 Lecture- Genomic SurveillancevFinalv2.pdf",
+    "text_file": "/home/user/college117/data/section_prep/2026-05-17/text/LECTURE_COLLEGE May 13 2026 Lecture- Genomic SurveillancevFinalv2.txt"
+  }
+}
