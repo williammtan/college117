@@ -1,0 +1,65 @@
+{
+  "files/08_Week 8: Environmental Justice/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.pdf": {
+    "title": "Crawford — Atlas of AI Ch. 1: Earth (Planetary Extraction & Justice)",
+    "argument": [
+      "Here, in a remote pocket of Nevada, is a place where the stuff of AI is made.",
+      "The cloud is the backbone of the artificial intelligence industry, and it's made of rocks and lithium brine and crude oil.",
+      "The mining that makes AI is both literal and metaphorical.",
+      "The massive ecosystem of AI relies on many kinds of extraction: from harvesting the data made from our daily activities and expressions, to depleting natural resources, and to exploiting labor around the globe so that this vast planetary network can be built and maintained.",
+      "The greatest benefits of extraction have been captured by the few.",
+      "Artificial intelligence is another kind of megamachine, a set of technological approaches that depend on industrial infrastructures, supply chains, and human labor that stretch around the globe but are kept opaque.",
+      "The history of mining, like the devastation it leaves in its wake, is commonly overlooked in the strategic amnesia that accompanies stories of technological progress.",
+      "Ignorance of the supply chain is baked into capitalism",
+      "The extractivism on which San Francisco was built is echoed in the practices of the tech sector based there today.",
+      "It is by thinking about these issues together that we can work toward greater justice."
+    ],
+    "evidence": [
+      "Silver Peak is perched on the edge of a massive underground lake of lithium.",
+      "Each Tesla Model S electric car needs about one hundred thirty-eight pounds of lithium for its battery pack.",
+      "Tesla is estimated to use more than twenty-eight thousand tons of lithium hydroxide annually—half of the planet's total consumption.",
+      "The black lake contains more than 180 million tons of waste powder from ore processing.",
+      "China supplies 95 percent of the world's rare earth minerals.",
+      "This means that 99.8 percent of earth removed in rare earth mining is discarded as waste",
+      "Strubell's team found that running only a single NLP model produced more than 660,000 pounds of carbon dioxide emissions",
+      "the carbon footprint of the world's computational infrastructure has matched that of the aviation industry at its height, and it is increasing at a faster rate.",
+      "Local journalists wanted to confirm whether the estimated consumption of 1.7 million gallons of water per day was accurate",
+      "One container ship is estimated to emit as much pollution as fifty million cars",
+      "OpenAI estimated that since 2012, the amount of compute used to train a single AI model has increased by a factor of ten every year.",
+      "Bangka and Belitung produce 90 percent of Indonesia's tin, used in semiconductors."
+    ],
+    "concept": [
+      "The new extractivism of data mining also encompasses and propels the old extractivism of traditional mining.",
+      "Computational media now participate in geological (and climatological) processes, from the transformation of the earth's materials into infrastructures and devices to the powering of these new systems with oil and gas reserves.",
+      "From the perspective of deep time, we are extracting Earth's geological history to serve a split second of contemporary technological time",
+      "Each object in the extended network of an AI system, from network routers to batteries to data centers, is built using elements that required billions of years to form inside the earth.",
+      "the historian and philosopher of technology Lewis Mumford developed the concept of the megamachine to illustrate how all systems, no matter how immense, consist of the work of many individual human actors.",
+      "the planetary mine expands and reconstitutes extraction into novel arrangements, extending the practices of mines into new spaces and interactions around the world.",
+      "San Francisco is enriched once more. Once it was gold ore that underwrote fortunes; now it is the extraction of substances like white lithium crystal.",
+      "Brechin suggests that we should think of the skyscrapers of San Francisco as inverted minescapes.",
+      "Mining was the key industry that furnished the sinews of war and increased the metallic contents of the original capital hoard"
+    ],
+    "application": [
+      "Microsoft, Google, and Amazon all license their AI platforms, engineering workforces, and infrastructures to fossil fuel companies to help them locate and extract fuel from the ground",
+      "with Apple and Google claiming to be carbon neutral (which means they offset their carbon emissions by purchasing credits) and Microsoft promising to become carbon negative by 2030.",
+      "China's data center industry draws 73 percent of its power from coal, emitting about 99 million tons of CO2 in 2018.",
+      "It took Intel more than four years of sustained effort to develop basic insight into its own supply chain.",
+      "the city of Bluffdale had already made a multiyear deal with the NSA, in which the city would sell water at rates well below the average in return for the promise of economic growth the facility might bring to the region.",
+      "It is the only operating lithium mine in the United States.",
+      "The mines are everywhere: in backyards, in the forest, by the side of the road, on the beaches.",
+      "The routes of submarine cables today still mark out the early colonial networks between the centers and the peripheries of empire.",
+      "researchers like Lotfi Belkhir and Ahmed Elmeligi estimating that the tech sector will contribute 14 percent of global greenhouse emissions by 2040"
+    ],
+    "implication": [
+      "those who profit from mining do so only because the costs must be sustained by others, those living and those not yet born.",
+      "water that is used to cool servers is being taken away from communities and habitats that rely on it to live.",
+      "The corporate imaginaries of AI fail to depict the lasting costs and long histories of the materials needed to build computational infrastructures or the energy required to power them.",
+      "Finding fresh methods for understanding the deep material and human roots of AI systems is vital at this moment in history, when the impacts of anthropogenic climate change are already well under way.",
+      "The current draw on the lithium mine is aggressive in response to the high demand, and no one knows how long it will last.",
+      "Silver Peak will also be a ghost town soon.",
+      "The lifecycle of an AI system from birth to death has many fractal supply chains: forms of exploitation of human labor and natural resources and massive concentrations of corporate and geopolitical power.",
+      "The rapid growth of cloud-based computation, portrayed as environmentally friendly, has paradoxically driven an expansion of the frontiers of resource extraction.",
+      "It is a landscape of ruin.",
+      "The jungles of Malaysia and Singapore were stripped; by the early 1880s, the Palaquium gutta had vanished."
+    ]
+  }
+}

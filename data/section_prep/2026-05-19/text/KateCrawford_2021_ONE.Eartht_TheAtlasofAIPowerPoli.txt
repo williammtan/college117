@@ -1,0 +1,1022 @@
+
+--- page 1 ---
+1
+Earth
+The Boeing 757 banks right over San Jose on its final
+approach to San Francisco International Airport.
+The left wing drops as the plane lines up with the
+runway, revealing an aerial view of the tech sector’s
+most iconic location. Below are the great empires of Silicon
+Valley. The gigantic black circle of Apple’s headquarters is laid
+out like an uncapped camera lens, glistening in the sun. Then
+there’s Google’s head office, nestled close to NASA’s Moffett
+Federal Airfield. This was once a key site for the U.S. Navy
+during World War II and the Korean War, but now Google
+has a sixty-year lease on it, and senior executives park their
+private planes here. Arrayed near Google are the large manu-
+facturing sheds of Lockheed Martin, where the aerospace and
+weapons manufacturing company builds hundreds of orbital
+satellites destined to look down on the activities of Earth. Next,
+by the Dumbarton Bridge, appears a collection of squat build-
+ings that are home to Facebook, ringed with massive parking
+lots close to the sulfuric salt ponds of the Ravenswood Slough.
+From this vantage point, the nondescript suburban cul-d e-s acs
+and industrial midrise skyline of Palo Alto betray little of its
+true wealth, power, and influence. There are only a few hints of
+.sserP
+ytisrevinU
+elaY
+.1202
+.wal
+thgirypoc
+elbacilppa
+ro
+.S.U
+rednu
+dettimrep
+sesu
+riaf
+tpecxe
+,rehsilbup
+eht
+morf
+noissimrep
+tuohtiw
+mrof
+yna
+ni
+decudorper
+eb
+ton
+yaM
+.devreser
+sthgir
+llA EBSCO Publishing: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES 2751921; Kate
+Crawford; The Atlas of AI : Power, Politics, and the Planetary Costs of Artificial Intelligence Account:ehost.
+--- page 2 ---
+24 Earth
+its centrality in the global economy and in the computational
+infrastructure of the planet.
+I’m here to learn about artificial intelligence and what
+it is made from. To see that, I will need to leave Silicon Valley
+altogether.
+From the airport, I jump into a van and drive east. I
+cross the San Mateo– Hayward Bridge and pass by the Law-
+rence Livermore National Laboratory, where Edward Teller di-
+rected his research into thermonuclear weapons in the years
+after World War II. Soon the Sierra Nevada foothills rise be-
+yond the Central Valley towns of Stockton and Manteca. Here
+the roads start winding up through the tall granite cliffs of
+the Sonora Pass and down the eastern side of the mountains
+toward grassy valleys dotted with golden poppies. Pine forests
+give way to the alkaline waters of Mono Lake and the parched
+desert landforms of the Basin and Range. To refuel, I pull into
+Hawthorne, Nevada, site of the world’s biggest ammunition
+depot, where the U.S. Army stores armaments in dozens of
+dirt- covered ziggurats that populate the valley in neat rows.
+Driving along Nevada State Route 265 I see a lone vOrtAC
+in the distance, a large bowling pin– shaped radio tower that
+was designed for the era before GPS. It has a single function:
+it broadcasts “I am here” to all passing aircraft, a fixed point of
+reference in a lonely terrain.
+My destination is the unincorporated community of Sil-
+ver Peak in Nevada’s Clayton Valley, where about 125 people
+live, depending on how you count. The mining town, one of
+the oldest in Nevada, was almost abandoned in 1917 after the
+ground was stripped bare of silver and gold. A few gold rush
+buildings still stand, eroding under the desert sun. The town
+may be small, with more junked cars than people, but it har-
+bors something exceedingly rare. Silver Peak is perched on the
+edge of a massive underground lake of lithium. The valuable
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 3 ---
+Earth 25
+Silver Peak Lithium Mine. Photograph by Kate Crawford
+lithium brine under the surface is pumped out of the ground
+and left in open, iridescent green ponds to evaporate. From
+miles away, the ponds can be seen when they catch the light
+and shimmer. Up close, it’s a different view. Alien- looking
+black pipes erupt from the ground and snake along the salt-
+encrusted earth, moving in and out of shallow trenches, ferry-
+ing the salty cocktail to its drying pans.
+Here, in a remote pocket of Nevada, is a place where the
+stuff of AI is made.
+Mining for AI
+Clayton Valley is connected to Silicon Valley in much the way
+that the nineteenth- century goldfields were to early San Fran-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 4 ---
+26 Earth
+cisco. The history of mining, like the devastation it leaves in
+its wake, is commonly overlooked in the strategic amnesia
+that accompanies stories of technological progress. As his-
+torical geographer Gray Brechin points out, San Francisco
+was built from the gains of pulling gold and silver out of the
+lands of California and Nevada in the 1800s.1 The city is made
+from mining. Those same lands had been taken from Mexico
+under the Treaty of Guadalupe Hidalgo in 1848 at the end of
+the Mexican- American War, when it was already clear to the
+settlers that these would be highly valuable goldfields. It was
+a textbook example, Brechin observes, of the old adage that
+“commerce follows the flag, but the flag follows the pick.”2
+Thousands of people were forced from their homes during
+this substantial territorial expansion of the United States. After
+America’s imperial invasion, the miners moved in. The land
+was stripped until the waterways were contaminated and the
+surrounding forests destroyed.
+Since antiquity, the business of mining has only been
+profitable because it does not have to account for its true
+costs: including environmental damage, the illness and death
+of miners, and the loss to the communities it displaces. In
+1555, Georgius Agricola, known as the father of mineralogy,
+observed that “it is clear to all that there is greater detriment
+from mining than the value of the metals which the mining
+produces.”3 In other words, those who profit from mining do
+so only because the costs must be sustained by others, those
+living and those not yet born. It is easy to put a price on pre-
+cious metals, but what is the exact value of a wilderness, a clean
+stream, breathable air, the health of local communities? It was
+never estimated, and thus an easy calculus emerged: extract
+everything as rapidly as possible. It was the “move fast and
+break things” of a different time. The result was that the Cen-
+tral Valley was decimated, and as one tourist observed in 1869,
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 5 ---
+Earth 27
+“Tornado, flood, earthquake and volcano combined could
+hardly make greater havoc, spread wider ruin and wreck than
+[the] gold- washing operations. . . . There are no rights which
+mining respects in California. It is the one supreme interest.”4
+As San Francisco drew enormous wealth from the mines,
+it was easy for its populace to forget where it all came from. The
+mines were located far from the city they enriched, and this re-
+moteness allowed city dwellers to remain ignorant of what was
+happening to the mountains, rivers, and laborers that fed their
+fortunes. But small reminders of the mines are all around. The
+city’s new buildings used the same technology that came from
+deep within the Central Valley for transport and life support.
+The pulley systems that carried miners down into the mine
+shafts were adapted and turned upside down to transport
+people in elevators to the top of the city’s high-rises.5 Brechin
+suggests that we should think of the skyscrapers of San Fran-
+cisco as inverted minescapes. The ores extracted from holes in
+the ground were sold to create the stories in the air; the deeper
+the extractions went, the higher the great towers of office work
+stretched into the sky.
+San Francisco is enriched once more. Once it was gold
+ore that underwrote fortunes; now it is the extraction of sub-
+stances like white lithium crystal. It’s known in mineral mar-
+kets as “gray gold.”6 The technology industry has become a
+new supreme interest, and the five biggest companies in the
+world by market capitalization have offices in this city: Apple,
+Microsoft, Amazon, Facebook, and Google. Walking past the
+start-u p warehouses in the SoMa district where miners in tents
+once lived, you can see luxury cars, venture capital– backed
+coffee chains, and sumptuous buses with tinted windows run-
+ning along private routes, carrying workers to their offices in
+Mountain View or Menlo Park.7 But only a short walk away is
+Division Street, a multilane thoroughfare between SoMa and
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 6 ---
+28 Earth
+the Mission district, where rows of tents have returned to shel-
+ter people who have nowhere to go. In the wake of the tech
+boom, San Francisco now has one of the highest rates of street
+homelessness in the United States.8 The United Nations spe-
+cial rapporteur on adequate housing called it an “unaccept-
+able” human rights violation, due to the thousands of home-
+less residents denied basic necessities of water, sanitation, and
+health services in contrast to the record number of billionaires
+who live nearby.9 The greatest benefits of extraction have been
+captured by the few.
+In this chapter we’ll traverse across Nevada, San Jose,
+and San Francisco, as well as Indonesia, Malaysia, China, and
+Mongolia: from deserts to oceans. We’ll also walk the spans of
+historical time, from conflict in the Congo and artificial black
+lakes in the present day to the Victorian passion for white latex.
+The scale will shift, telescoping from rocks to cities, trees to
+megacorporations, transoceanic shipping lanes to the atomic
+bomb. But across this planetary supersystem we will see the
+logics of extraction, a constant drawdown of minerals, water,
+and fossil fuels, undergirded by the violence of wars, pollution,
+extinction, and depletion. The effects of large- scale computa-
+tion can be found in the atmosphere, the oceans, the earth’s
+crust, the deep time of the planet, and the brutal impacts on
+disadvantaged populations around the world. To understand
+it all, we need a panoramic view of the planetary scale of com-
+putational extraction.
+Landscapes of Computation
+I’m driving through the desert valley on a summer afternoon
+to see the workings of this latest mining boom. I ask my phone
+to direct me to the perimeter of the lithium ponds, and it re-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 7 ---
+Earth 29
+plies from its awkward perch on the dashboard, tethered by a
+white USB cable. Silver Peak’s large, dry lake bed was formed
+millions of years ago during the late Tertiary Period. It’s sur-
+rounded by crusted stratifications pushing up into ridgelines
+containing dark limestones, green quartzites, and gray and red
+slate.10 Lithium was discovered here after the area was scoped
+for strategic minerals like potash during World War II. This
+soft, silvery metal was mined in only modest quantities for the
+next fifty years, until it became highly valuable material for the
+technology sector.
+In 2014, Rockwood Holdings, Inc., a lithium mining
+operation, was acquired by the chemical manufacturing com-
+pany Albemarle Corporation for $6.2 billion. It is the only
+operating lithium mine in the United States. This makes Silver
+Peak a site of intense interest to Elon Musk and the many other
+tech tycoons for one reason: rechargeable batteries. Lithium is
+a crucial element for their production. Smartphone batteries,
+for example, usually contain about three- tenths of an ounce
+of it. Each Tesla Model S electric car needs about one hun-
+dred thirty-eight pounds of lithium for its battery pack.11 These
+kinds of batteries were never intended to supply a machine as
+power hungry as a car, but lithium batteries are currently the
+only mass-m arket option available.12 All of these batteries have
+a limited lifespan; once degraded, they are discarded as waste.
+About two hundred miles north of Silver Peak is the Tesla
+Gigafactory. This is the world’s largest lithium battery plant.
+Tesla is the number- one lithium- ion battery consumer in the
+world, purchasing them in high volumes from Panasonic and
+Samsung and repackaging them in its cars and home chargers.
+Tesla is estimated to use more than twenty-eight thousand tons
+of lithium hydroxide annually—half of the planet’s total con-
+sumption.13 In fact, Tesla could more accurately be described as
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 8 ---
+30 Earth
+a battery business than a car company.14 The imminent short-
+age of such critical minerals as nickel, copper, and lithium
+poses a risk for the company, making the lithium lake at Silver
+Peak highly desirable.15 Securing control of the mine would
+mean controlling the U.S. domestic supply.
+As many have shown, the electric car is far from a perfect
+solution to carbon dioxide emissions.16 The mining, smelting,
+export, assemblage, and transport of the battery supply chain
+has a significant negative impact on the environment and, in
+turn, on the communities affected by its degradation. A small
+number of home solar systems produce their own energy. But
+for the majority of cases, charging an electric car necessitates
+taking power from the grid, where currently less than a fifth
+of all electricity in the United States comes from renewable
+energy sources.17 So far none of this has dampened the deter-
+mination of auto manufacturers to compete with Tesla, putting
+increasing pressure on the battery market and accelerating the
+removal of diminishing stores of the necessary minerals.
+Global computation and commerce rely on batteries. The
+term “artificial intelligence” may invoke ideas of algorithms,
+data, and cloud architectures, but none of that can function
+without the minerals and resources that build computing’s
+core components. Rechargeable lithium- ion batteries are
+essential for mobile devices and laptops, in-h ome digital assis-
+tants, and data center backup power. They undergird the inter-
+net and every commerce platform that runs on it, from bank-
+ing to retail to stock market trades. Many aspects of modern
+life have been moved to “the cloud” with little consideration of
+these material costs. Our work and personal lives, our medi-
+cal histories, our leisure time, our entertainment, our politi-
+cal interests—all of this takes place in the world of networked
+computing architectures that we tap into from devices we hold
+in one hand, with lithium at their core.
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 9 ---
+Earth 31
+The mining that makes AI is both literal and metaphori-
+cal. The new extractivism of data mining also encompasses and
+propels the old extractivism of traditional mining. The stack
+required to power artificial intelligence systems goes well be-
+yond the multilayered technical stack of data modeling, hard-
+ware, servers, and networks. The full- stack supply chain of AI
+reaches into capital, labor, and Earth’s resources—and from
+each, it demands an enormous amount.18 The cloud is the
+backbone of the artificial intelligence industry, and it’s made
+of rocks and lithium brine and crude oil.
+In his book A Geology of Media, theorist Jussi Parikka
+suggests we think of media not from Marshall McLuhan’s point
+of view—in which media are extensions of the human senses—
+but rather as extensions of Earth.19 Computational media now
+participate in geological (and climatological) processes, from
+the transformation of the earth’s materials into infrastructures
+and devices to the powering of these new systems with oil and
+gas reserves. Reflecting on media and technology as geological
+processes enables us to consider the radical depletion of non-
+renewable resources required to drive the technologies of the
+present moment. Each object in the extended network of an
+AI system, from network routers to batteries to data centers, is
+built using elements that required billions of years to form in-
+side the earth.
+From the perspective of deep time, we are extracting
+Earth’s geological history to serve a split second of contem-
+porary technological time, building devices like the Amazon
+Echo and the iPhone that are often designed to last for only a
+few years. The Consumer Technology Association notes that
+the average smartphone life span is a mere 4.7 years.20 This
+obsolescence cycle fuels the purchase of more devices, drives
+up profits, and increases incentives for the use of unsustain-
+able extraction practices. After a slow process of development,
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 10 ---
+32 Earth
+these minerals, elements, and materials then go through an
+extraordinarily rapid period of excavation, processing, mix-
+ing, smelting, and logistical transport—crossing thousands
+of miles in their transformation. What begins as ore removed
+from the ground, after the spoil and the tailings are discarded,
+is then made into devices that are used and discarded. They
+ultimately end up buried in e-waste dumping grounds in
+places like Ghana and Pakistan. The lifecycle of an AI system
+from birth to death has many fractal supply chains: forms of
+exploitation of human labor and natural resources and mas-
+sive concentrations of corporate and geopolitical power. And
+all along the chain, a continual, large- scale consumption of
+energy keeps the cycle going.
+The extractivism on which San Francisco was built is
+echoed in the practices of the tech sector based there today.21
+The massive ecosystem of AI relies on many kinds of extrac-
+tion: from harvesting the data made from our daily activities
+and expressions, to depleting natural resources, and to exploit-
+ing labor around the globe so that this vast planetary network
+can be built and maintained. And AI extracts far more from
+us and the planet than is widely known. The Bay Area is a cen-
+tral node in the mythos of AI, but we’ll need to traverse far
+beyond the United States to see the many-l ayered legacies of
+human and environmental damage that have powered the tech
+industry.
+The Mineralogical Layer
+The lithium mines in Nevada are just one of the places where
+the materials are extracted from the earth’s crust to make
+AI. There are many such sites, including the Salar in south-
+west Bolivia—the richest site of lithium in the world and thus
+a site of ongoing political tension—as well as places in cen-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 11 ---
+Earth 33
+tral Congo, Mongolia, Indonesia, and the Western Australia
+deserts. These are the other birthplaces of AI in the greater
+geography of industrial extraction. Without the minerals from
+these locations, contemporary computation simply does not
+work. But these materials are in increasingly short supply.
+In 2020, scientists at the U.S. Geological Survey pub-
+lished a short list of twenty-t hree minerals that are a high “sup-
+ply risk” to manufacturers, meaning that if they became un-
+available, entire industries—including the tech sector—would
+grind to a halt.22 The critical minerals include the rare earth
+elements dysprosium and neodymium, which are used in-
+side iPhone speakers and electric vehicle motors; germanium,
+which is used in infrared military devices for soldiers and in
+drones; and cobalt, which improves performance for lithium-
+ion batteries.
+There are seventeen rare earth elements: lanthanum, ce-
+rium, praseodymium, neodymium, promethium, samarium,
+europium, gadolinium, terbium, dysprosium, holmium, er-
+bium, thulium, ytterbium, lutetium, scandium, and yttrium.
+They are processed and embedded in laptops and smart-
+phones, making those devices smaller and lighter. The ele-
+ments can be found in color displays, speakers, camera lenses,
+rechargeable batteries, hard drives, and many other compo-
+nents. They are key elements in communication systems, from
+fiber- optic cables and signal amplification in mobile commu-
+nication towers to satellites and GPS technology. But extract-
+ing these minerals from the ground often comes with local and
+geopolitical violence. Mining is and always has been a brutal
+undertaking. As Lewis Mumford writes, “Mining was the key
+industry that furnished the sinews of war and increased the
+metallic contents of the original capital hoard, the war chest:
+on the other hand, it furthered the industrialization of arms,
+and enriched the financier by both processes.”23 To under-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 12 ---
+34 Earth
+stand the business of AI, we must reckon with the war, fam-
+ine, and death that mining brings with it.
+Recent U.S. legislation that regulates some of those
+seventeen rare earth elements only hints at the devastation as-
+sociated with their extraction. The 2010 Dodd-F rank Act fo-
+cused on reforming the financial sector in the wake of the 2008
+financial crisis. It included a specific provision about so- called
+conflict minerals, or natural resources extracted in a conflict
+zone and then sold to fund the conflict. Companies using gold,
+tin, tungsten, and tantalum from the region around the Demo-
+cratic Republic of the Congo now had a reporting requirement
+to track where those minerals came from and whether the sale
+was funding armed militia in the region.24 Like “conflict dia-
+monds,” the term “conflict minerals” masks the profound suf-
+fering and prolific killing in the mining sector. Mining profits
+have financed military operations in the decades-l ong Congo-
+area conflict, fueling the deaths of thousands and the displace-
+ment of millions.25 Furthermore, working conditions inside
+the mines have often amounted to modern slavery.26
+It took Intel more than four years of sustained effort to
+develop basic insight into its own supply chain.27 Intel’s supply
+chain is complex, with more than sixteen thousand suppliers
+in over a hundred countries providing direct materials for the
+company’s production processes, tools, and machines for their
+factories, as well as their logistics and packaging services.28 In
+addition, Intel and Apple have been criticized for auditing only
+smelters—not the actual mines—to determine the conflict-
+free status of minerals. The tech giants were assessing smelting
+plants outside of Congo, and the audits were often performed
+by locals. So even the conflict-f ree certifications of the tech in-
+dustry are now under question.29
+Dutch- based technology company Philips has also
+claimed that it was working to make its supply chain “conflict-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 13 ---
+Earth 35
+free.” Like Intel, Philips has tens of thousands of suppliers,
+each of which provides component parts for the company’s
+manufacturing processes.30 Those suppliers are themselves
+linked downstream to thousands of component manufactur-
+ers acquiring treated materials from dozens of smelters. The
+smelters in turn buy their materials from an unknown number
+of traders who deal directly with both legal and illegal mining
+operations to source the various minerals that end up in com-
+puter components.31
+According to the computer manufacturer Dell, the com-
+plexities of the metals and mineral supply chains pose almost
+insurmountable challenges to the production of conflict-f ree
+electronics components. The elements are laundered through
+such a vast number of entities along the chain that sourcing
+their provenance proves impossible—or so the end- product
+manufacturers claim, allowing them a measure of plausible de-
+niability for any exploitative practices that drive their profits.32
+Just like the mines that served San Francisco in the nine-
+teenth century, extraction for the technology sector is done
+by keeping the real costs out of sight. Ignorance of the supply
+chain is baked into capitalism, from the way businesses pro-
+tect themselves through third-p arty contractors and suppliers
+to the way goods are marketed and advertised to consumers.
+More than plausible deniability, it has become a well-p racticed
+form of bad faith: the left hand cannot know what the right
+hand is doing, which requires increasingly lavish, baroque,
+and complex forms of distancing.
+While mining to finance war is one of the most extreme
+cases of harmful extraction, most minerals are not sourced
+from direct war zones. This doesn’t mean, however, that they
+are free from human suffering and environmental destruction.
+The focus on conflict minerals, though important, has also
+been used to avert focus from the harms of mining writ large.
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 14 ---
+36 Earth
+If we visit the primary sites of mineral extraction for computa-
+tional systems, we find the repressed stories of acid-b leached
+rivers and deracinated landscapes and the extinction of plant
+and animal species that were once vital to the local ecology.
+Black Lakes and White Latex
+In Baotou, the largest city in Inner Mongolia, there is an arti-
+ficial lake filled with toxic black mud. It reeks of sulfur and
+stretches as far as the eye can see, covering more than five and
+a half miles in diameter. The black lake contains more than
+180 million tons of waste powder from ore processing.33 It was
+created by the waste runoff from the nearby Bayan Obo mines,
+which is estimated to contain almost 70 percent of the world’s
+reserves of rare earth minerals. It is the largest deposit of rare
+earth elements on the planet.34
+China supplies 95 percent of the world’s rare earth min-
+erals. China’s market domination, as the writer Tim Maughan
+observes, owes far less to geology than to the country’s will-
+ingness to take on the environmental damage of extraction.35
+Although rare earth minerals like neodymium and cerium are
+relatively common, making them usable requires the hazard-
+ous process of dissolving them in large volumes of sulfuric
+and nitric acid. These acid baths yield reservoirs of poison-
+ous waste that fill the dead lake in Baotou. This is just one of
+the places that are brimming with what environmental studies
+scholar Myra Hird calls “the waste we want to forget.”36
+To date, the unique electronic, optical, and magnetic uses
+of rare earth elements cannot be matched by any other metals,
+but the ratio of usable minerals to waste toxins is extreme.
+Natural resource strategist David Abraham describes the min-
+ing in Jiangxi, China, of dysprosium and terbium, which are
+used in a variety of high- tech devices. He writes, “Only 0.2
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 15 ---
+Earth 37
+percent of the mined clay contains the valuable rare earth ele-
+ments. This means that 99.8 percent of earth removed in rare
+earth mining is discarded as waste, called ‘tailings,’ that are
+dumped back into the hills and streams,” creating new pollu-
+tants like ammonium.37 In order to refine one ton of these rare
+earth elements, “the Chinese Society of Rare Earths estimates
+that the process produces 75,000 liters of acidic water and one
+ton of radioactive residue.”38
+About three thousand miles south of Baotou are the
+small Indonesian islands of Bangka and Belitung, off the coast
+of Sumatra. Bangka and Belitung produce 90 percent of Indo-
+nesia’s tin, used in semiconductors. Indonesia is the world’s
+second-l argest producer of the metal, behind China. Indo-
+nesia’s national tin corporation, PT Timah, supplies companies
+such as Samsung directly, as well as solder makers Chernan
+and Shenmao, which in turn supply Sony, LG, and Foxconn—
+all suppliers for Apple, Tesla, and Amazon.39
+On these small islands, gray- market miners who are not
+officially employed sit on makeshift pontoons, using bamboo
+poles to scrape the seabed before diving underwater to suck
+tin from the surface by drawing their breath through giant,
+vacuumlike tubes. The miners sell the tin they find to middle-
+men, who also collect ore from miners working in autho-
+rized mines, and they mix it together to sell to companies like
+Timah.40 Completely unregulated, the process unfolds beyond
+any formal worker or environmental protections. As inves-
+tigative journalist Kate Hodal reports, “Tin mining is a lucra-
+tive but destructive trade that has scarred the island’s land-
+scape, bulldozed its farms and forests, killed off its fish stocks
+and coral reefs, and dented tourism to its pretty palm- lined
+beaches. The damage is best seen from the air, as pockets of
+lush forest huddle amid huge swaths of barren orange earth.
+Where not dominated by mines, this is pockmarked with
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 16 ---
+38 Earth
+graves, many holding the bodies of miners who have died over
+the centuries digging for tin.”41 The mines are everywhere: in
+backyards, in the forest, by the side of the road, on the beaches.
+It is a landscape of ruin.
+It is a common practice of life to focus on the world im-
+mediately before us, the one we see and smell and touch every
+day. It grounds us where we are, with our communities and our
+known corners and concerns. But to see the full supply chains
+of AI requires looking for patterns in a global sweep, a sensi-
+tivity to the ways in which the histories and specific harms are
+different from place to place and yet are deeply interconnected
+by the multiple forces of extraction.
+We can see these patterns across space, but we can also
+find them across time. Transatlantic telegraph cables are the
+essential infrastructure that ferries data between the continents,
+an emblem of global communication and capital. They are also
+a material product of colonialism, with its patterns of extrac-
+tion, conflict, and environmental destruction. At the end of the
+nineteenth century, a particular Southeast Asian tree called Pa-
+laquium gutta became the center of a cable boom. These trees,
+found mainly in Malaysia, produce a milky white natural latex
+called gutta- percha. After English scientist Michael Faraday
+published a study in the Philosophical Magazine in 1848 about
+the use of this material as an electrical insulator, gutta- percha
+rapidly became the darling of the engineering world. Engineers
+saw gutta-p ercha as the solution to the problem of insulating
+telegraphic cables to withstand harsh and varying conditions
+on the ocean floor. The twisted strands of copper wire needed
+four layers of the soft, organic tree sap to protect them from
+water incursion and carry their electrical currents.
+As the global submarine telegraphy business grew, so did
+demand for Palaquium gutta tree trunks. The historian John
+Tully describes how local Malay, Chinese, and Dayak workers
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 17 ---
+Earth 39
+were paid little for the dangerous work of felling the trees
+and slowly collecting the latex.42 The latex was processed and
+then sold through Singapore’s trade markets into the British
+market, where it was transformed into, among other things,
+lengths upon lengths of submarine cable sheaths that wrapped
+around the globe. As media scholar Nicole Starosielski writes,
+“Military strategists saw cables as the most efficient and secure
+mode of communication with the colonies—and, by implica-
+tion, of control over them.”43 The routes of submarine cables
+today still mark out the early colonial networks between the
+centers and the peripheries of empire.44
+A mature Palaquium gutta could yield around eleven
+ounces of latex. But in 1857, the first transatlantic cable was
+around eighteen hundred miles long and weighed two thou-
+sand tons—requiring about 250 tons of gutta-p ercha. To pro-
+duce just one ton of this material required around nine hundred
+thousand tree trunks. The jungles of Malaysia and Singapore
+were stripped; by the early 1880s, the Palaquium gutta had
+vanished. In a last-d itch effort to save their supply chain, the
+British passed a ban in 1883 to halt harvesting the latex, but the
+tree was all but extinct.45
+The Victorian environmental disaster of gutta-p ercha, at
+the dawn of the global information society, shows how the re-
+lations between technology and its materials, environments,
+and labor practices are interwoven.46 Just as Victorians precipi-
+tated ecological disaster for their early cables, so do contempo-
+rary mining and global supply chains further imperil the deli-
+cate ecological balance of our era.
+There are dark ironies in the prehistories of planetary
+computation. Currently large-s cale AI systems are driving
+forms of environmental, data, and human extraction, but from
+the Victorian era onward, algorithmic computation emerged
+out of desires to manage and control war, population, and cli-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 18 ---
+40 Earth
+Palaquium gutta
+mate change. The historian Theodora Dryer describes how the
+founding figure of mathematical statistics, English scientist
+Karl Pearson, sought to resolve uncertainties of planning and
+management by developing new data architectures including
+standard deviations and techniques of correlation and regres-
+sion. His methods were, in turn, deeply imbricated with race
+science, as Pearson—along with his mentor, the statistician
+and founder of eugenics Sir Francis Galton—believed that
+statistics could be “the first step in an enquiry into the possible
+effect of a selective process upon any character of a race.”47
+As Dryer writes, “By the end of the 1930s, these data archi-
+tectures—regression techniques, standard deviation, and cor-
+relations—would become dominant tools used in interpreting
+social and state information on the world stage. Tracking the
+nodes and routes of global trade, the interwar ‘mathematical-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 19 ---
+Earth 41
+statistics movement’ became a vast enterprise.”48 This enter-
+prise kept expanding after World War II, as new computational
+systems were used in domains such as weather forecasting dur-
+ing periods of drought to eke out more productivity from large-
+scale industrial farming.49 From this perspective, algorithmic
+computing, computational statistics, and artificial intelligence
+were developed in the twentieth century to address social and
+environmental challenges but would later be used to intensify
+industrial extraction and exploitation and further deplete en-
+vironmental resources.
+The Myth of Clean Tech
+Minerals are the backbone of AI, but its lifeblood is still elec-
+trical energy. Advanced computation is rarely considered in
+terms of carbon footprints, fossil fuels, and pollution; meta-
+phors like “the cloud” imply something floating and delicate
+within a natural, green industry.50 Servers are hidden in non-
+descript data centers, and their polluting qualities are far less
+visible than the billowing smokestacks of coal- fired power
+stations. The tech sector heavily publicizes its environmental
+policies, sustainability initiatives, and plans to address climate-
+related problems using AI as a problem-s olving tool. It is all
+part of a highly produced public image of a sustainable tech
+industry with no carbon emissions. In reality, it takes a gargan-
+tuan amount of energy to run the computational infrastruc-
+tures of Amazon Web Services or Microsoft’s Azure, and the
+carbon footprint of the AI systems that run on those platforms
+is growing.51
+As Tung- Hui Hu writes in A Prehistory of the Cloud, “The
+cloud is a resource- intensive, extractive technology that con-
+verts water and electricity into computational power, leaving a
+sizable amount of environmental damage that it then displaces
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 20 ---
+42 Earth
+from sight.”52 Addressing this energy-i ntensive infrastructure
+has become a major concern. Certainly, the industry has made
+significant efforts to make data centers more energy efficient
+and to increase their use of renewable energy. But already, the
+carbon footprint of the world’s computational infrastructure
+has matched that of the aviation industry at its height, and it
+is increasing at a faster rate.53 Estimates vary, with research-
+ers like Lotfi Belkhir and Ahmed Elmeligi estimating that the
+tech sector will contribute 14 percent of global greenhouse
+emissions by 2040, while a team in Sweden predicts that the
+electricity demands of data centers alone will increase about
+fifteenfold by 2030.54
+By looking closely at the computational capacity needed
+to build AI models, we can see how the desire for exponen-
+tial increases in speed and accuracy is coming at a high cost
+to the planet. The processing demands of training AI models,
+and thus their energy consumption, is still an emerging area of
+investigation. One of the early papers in this field came from
+AI researcher Emma Strubell and her team at the University
+of Massachusetts Amherst in 2019. With a focus on trying to
+understand the carbon footprint of natural language process-
+ing (NLP) models, they began to sketch out potential estimates
+by running AI models over hundreds of thousands of compu-
+tational hours.55 The initial numbers were striking. Strubell’s
+team found that running only a single NLP model produced
+more than 660,000 pounds of carbon dioxide emissions, the
+equivalent of five gas- powered cars over their total lifetime
+(including their manufacturing) or 125 round- trip flights from
+New York to Beijing.56
+Worse, the researchers noted that this modeling is, at
+minimum, a baseline optimistic estimate. It does not reflect
+the true commercial scale at which companies like Apple and
+Amazon operate, scraping internet- wide datasets and feeding
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 21 ---
+Earth 43
+their own NLP models to make AI systems like Siri and Alexa
+sound more human. But the exact amount of energy consump-
+tion produced by the tech sector’s AI models is unknown; that
+information is kept as highly guarded corporate secrets. Here,
+too, the data economy is premised on maintaining environ-
+mental ignorance.
+In the AI field, it is standard practice to maximize com-
+putational cycles to improve performance, in accordance with
+a belief that bigger is better. As Rich Sutton of DeepMind de-
+scribes it: “Methods that leverage computation are ultimately
+the most effective, and by a large margin.”57 The computational
+technique of brute- force testing in AI training runs, or system-
+atically gathering more data and using more computational
+cycles until a better result is achieved, has driven a steep in-
+crease in energy consumption. OpenAI estimated that since
+2012, the amount of compute used to train a single AI model
+has increased by a factor of ten every year. That’s due to de-
+velopers “repeatedly finding ways to use more chips in paral-
+lel, and being willing to pay the economic cost of doing so.”58
+Thinking only in terms of economic cost narrows the view on
+the wider local and environmental price of burning computa-
+tion cycles as a way to create incremental efficiencies. The ten-
+dency toward “compute maximalism” has profound ecological
+impacts.
+Data centers are among the world’s largest consumers
+of electricity.59 Powering this multilevel machine requires
+grid electricity in the form of coal, gas, nuclear, or renewable
+energy. Some corporations are responding to growing alarm
+about the energy consumption of large-s cale computation,
+with Apple and Google claiming to be carbon neutral (which
+means they offset their carbon emissions by purchasing cred-
+its) and Microsoft promising to become carbon negative by
+2030. But workers within the companies have pushed for re-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 22 ---
+44 Earth
+ductions in emissions across the board, rather than what they
+see as buying indulgences out of environmental guilt.60 More-
+over, Microsoft, Google, and Amazon all license their AI plat-
+forms, engineering workforces, and infrastructures to fossil
+fuel companies to help them locate and extract fuel from the
+ground, which further drives the industry most responsible for
+anthropogenic climate change.
+Beyond the United States, more clouds of carbon dioxide
+are rising. China’s data center industry draws 73 percent of its
+power from coal, emitting about 99 million tons of CO2 in
+2018.61 And electricity consumption from China’s data center
+infrastructure is expected to increase by two-thirds by 2023.62
+Greenpeace has raised the alarm about the colossal energy de-
+mands of China’s biggest technology companies, arguing that
+“China’s leading tech companies, including Alibaba, Tencent,
+and GDS, must dramatically scale up clean energy procure-
+ment and disclose energy use data.”63 But the lasting impacts
+of coal-fired power are everywhere, exceeding any national
+boundaries. The planetary nature of resource extraction and
+its consequences goes well beyond what the nation-state was
+designed to address.
+Water tells another story of computation’s true cost. The
+history of water use in the United States is full of battles and
+secret deals, and as with computation, the deals made over
+water are kept close. One of the biggest U.S. data centers be-
+longs to the National Security Agency (NSA) in Bluffdale, Utah.
+Open since late 2013, the Intelligence Community Comprehen-
+sive National Cybersecurity Initiative Data Center is impos-
+sible to visit directly. But by driving up through the adjacent
+suburbs, I found a cul-d e-s ac on a hill thick with sagebrush,
+and from there I was afforded a closer view of the sprawling
+1.2-m illion-s quare-f oot facility. The site has a kind of symbolic
+power of the next era of government data capture, having been
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 23 ---
+Earth 45
+featured in films like Citizenfour and pictured in thousands of
+news stories about the NSA. In person, though, it looks non-
+descript and prosaic, a giant storage container combined with
+a government office block.
+The struggle over water began even before the data cen-
+ter was officially open, given its location in drought-p arched
+Utah.64 Local journalists wanted to confirm whether the esti-
+mated consumption of 1.7 million gallons of water per day was
+accurate, but the NSA initially refused to share usage data,
+redacted all details from public records, and claimed that its
+water use was a matter of national security. Antisurveillance
+activists created handbooks encouraging the end of material
+support of water and energy to surveillance, and they strate-
+gized that legal controls over water usage could help shut
+down the facility.65 But the city of Bluffdale had already made
+a multiyear deal with the NSA, in which the city would sell
+water at rates well below the average in return for the promise
+of economic growth the facility might bring to the region.66
+The geopolitics of water are now deeply combined with the
+mechanisms and politics of data centers, computation, and
+power—in every sense. From the dry hillside that overlooks
+the NSA’s data repository, all the contestation and obfuscation
+about water makes sense: this is a landscape with a limit, and
+water that is used to cool servers is being taken away from
+communities and habitats that rely on it to live.
+Just as the dirty work of the mining sector was far re-
+moved from the companies and city dwellers who profited
+most, so the majority of data centers are far removed from
+major population hubs, whether in the desert or in semi-
+industrial exurbs. This contributes to our sense of the cloud
+being out of sight and abstracted away, when in fact it is ma-
+terial, affecting the environment and climate in ways that are
+far from being fully recognized and accounted for. The cloud
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 24 ---
+46 Earth
+is of the earth, and to keep it growing requires expanding re-
+sources and layers of logistics and transport that are in con-
+stant motion.
+The Logistical Layer
+So far, we have considered the material stuff of AI, from rare
+earth elements to energy. By grounding our analysis in the
+specific materialities of AI—the things, places, and people—
+we can better see how the parts are operating within broader
+systems of power. Take, for example, the global logistical ma-
+chines that move minerals, fuel, hardware, workers, and con-
+sumer AI devices around the planet.67 The dizzying spectacle
+of logistics and production displayed by companies like Ama-
+zon would not be possible without the development and wide-
+spread acceptance of a standardized metal object: the cargo
+container. Like submarine cables, cargo containers bind the
+industries of global communication, transport, and capital, a
+material exercise of what mathematicians call “optimal trans-
+port”—in this case, as an optimization of space and resources
+across the trade routes of the world.
+Standardized cargo containers (themselves built from
+the basic earth elements of carbon and iron forged as steel)
+enabled the explosion of the modern shipping industry, which
+in turn made it possible to envision and model the planet as
+a single massive factory. The cargo container is the single unit
+of value—like a piece of Lego—that can travel thousands of
+miles before meeting its final destination as a modular part of
+a greater system of delivery. In 2017, the capacity of container
+ships in seaborne trade reached nearly 250 million deadweight
+tons of cargo, dominated by giant shipping companies includ-
+ing Maersk of Denmark, the Mediterranean Shipping Com-
+pany of Switzerland, and France’s CMA CGM Group, each
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 25 ---
+Earth 47
+owning hundreds of container vessels.68 For these commercial
+ventures, cargo shipping is a relatively cheap way to navigate
+the vascular system of the global factory, yet it disguises far
+larger external costs. Just as they tend to neglect the physical
+realities and costs of AI infrastructure, popular culture and
+media rarely cover the shipping industry. The author Rose
+George calls this condition “sea blindness.”69
+In recent years, shipping vessels produced 3.1 percent of
+yearly global carbon dioxide emissions, more than the total
+produced by Germany.70 In order to minimize their internal
+costs, most container shipping companies use low-g rade fuel
+in enormous quantities, which leads to increased amounts of
+airborne sulfur and other toxic substances. One container ship
+is estimated to emit as much pollution as fifty million cars, and
+sixty thousand deaths every year are attributed indirectly to
+cargo- ship- industry pollution.71
+Even industry- friendly sources like the World Shipping
+Council admit that thousands of containers are lost each year,
+sinking to the ocean floor or drifting loose.72 Some carry toxic
+substances that leak into the oceans; others release thousands
+of yellow rubber ducks that wash ashore around the world over
+decades.73 Typically, workers spend almost six months at sea,
+often with long working shifts and without access to external
+communications.
+Here, too, the most severe costs of global logistics are
+borne by the Earth’s atmosphere, the oceanic ecosystem and
+low- paid workers. The corporate imaginaries of AI fail to de-
+pict the lasting costs and long histories of the materials needed
+to build computational infrastructures or the energy required
+to power them. The rapid growth of cloud-based computa-
+tion, portrayed as environmentally friendly, has paradoxically
+driven an expansion of the frontiers of resource extraction. It
+is only by factoring in these hidden costs, these wider collec-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 26 ---
+48 Earth
+tions of actors and systems, that we can understand what the
+shift toward increasing automation will mean. This requires
+working against the grain of how the technological imaginary
+usually works, which is completely untethered from earthly
+matters. Like running an image search of “AI,” which returns
+dozens of pictures of glowing brains and blue- tinted binary
+code floating in space, there is a powerful resistance to engag-
+ing with the materialities of these technologies. Instead, we
+begin with the earth, with extraction, and with the histories of
+industrial power and then consider how these patterns are re-
+peated in systems of labor and data.
+AI as Megamachine
+In the late 1960s, the historian and philosopher of technology
+Lewis Mumford developed the concept of the megamachine to
+illustrate how all systems, no matter how immense, consist of
+the work of many individual human actors.74 For Mumford,
+the Manhattan Project was the defining modern megama-
+chine whose intricacies were kept not only from the public but
+even from the thousands of people who worked on it at dis-
+crete, secured sites across the United States. A total of 130,000
+workers operated in complete secrecy under the direction of
+the military, developing a weapon that would kill (by conser-
+vative estimates) 237,000 people when it hit Hiroshima and
+Nagasaki in 1945. The atomic bomb depended on a complex,
+secret chain of supply, logistics, and human labor.
+Artificial intelligence is another kind of megamachine,
+a set of technological approaches that depend on industrial
+infrastructures, supply chains, and human labor that stretch
+around the globe but are kept opaque. We have seen how AI
+is much more than databases and algorithms, machine learn-
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 27 ---
+Earth 49
+ing models and linear algebra. It is metamorphic: relying on
+manufacturing, transportation, and physical work; data cen-
+ters and the undersea cables that trace lines between the con-
+tinents; personal devices and their raw components; trans-
+mission signals passing through the air; datasets produced
+by scraping the internet; and continual computational cycles.
+These all come at a cost.
+We have looked at the relations between cities and mines,
+companies and supply chains, and the topographies of extrac-
+tion that connect them. The fundamentally intertwined nature
+of production, manufacturing, and logistics reminds us that
+the mines that drive AI are everywhere: not only sited in dis-
+crete locations but diffuse and scattered across the geography
+of the earth, in what Mazen Labban has called the “planetary
+mine.”75 This is not to deny the many specific locations where
+technologically driven mining is taking place. Rather, Labban
+observes that the planetary mine expands and reconstitutes
+extraction into novel arrangements, extending the practices
+of mines into new spaces and interactions around the world.
+Finding fresh methods for understanding the deep ma-
+terial and human roots of AI systems is vital at this moment
+in history, when the impacts of anthropogenic climate change
+are already well under way. But that’s easier said than done. In
+part, that’s because many industries that make up the AI sys-
+tem chain conceal the ongoing costs of what they do. Further-
+more, the scale required to build artificial intelligence systems
+is too complex, too obscured by intellectual property law, and
+too mired in logistical and technical complexity for us to see
+into it all. But the aim here is not to try and make these com-
+plex assemblages transparent: rather than trying to see inside
+them, we will be connecting across multiple systems to under-
+stand how they work in relation to each other.76 Thus, our path
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 28 ---
+50 Earth
+The ruins at Blair. Photograph by Kate Crawford
+will follow the stories about the environmental and labor costs
+of AI and place them in context with the practices of extrac-
+tion and classification braided throughout everyday life. It
+is by thinking about these issues together that we can work
+toward greater justice.
+I make one more trip to Silver Peak. Before I reach the
+town, I pull the van over to the side of the road to read a
+weather- beaten sign. It’s Nevada Historical Marker 174, dedi-
+cated to the creation and destruction of a small town called
+Blair. In 1906, the Pittsburgh Silver Peak Gold Mining Com-
+pany bought up the mines in the area. Anticipating a boom,
+land speculators purchased all of the available plots near Silver
+Peak along with its water rights, driving prices to record artifi-
+cial highs. So the mining company surveyed a couple of miles
+north and declared it the site for a new town: Blair. They built
+a hundred- stamp cyanide mill for leach mining, the biggest in
+the state, and laid the Silver Peak railroad that ran from Blair
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 29 ---
+Earth 51
+Junction to the Tonopah and Goldfield main line. Briefly, the
+town thrived. Many hundreds of people came from all over
+for the jobs, despite the harsh working conditions. But with so
+much mining activity, the cyanide began to poison the ground,
+and the gold and silver seams began to falter and dry up. By
+1918, Blair was all but deserted. It was all over within twelve
+years. The ruins are marked on a local map—just a forty-fi ve-
+minute walk away.
+It’s a blazing hot day in the desert. The only sounds are
+the metallic reverberations of cicadas and the rumble of an
+occasional passenger jet. I decide to start up the hill. By the
+time I reach the collection of stone buildings at the top of the
+long dirt road, I’m exhausted from the heat. I take shelter in-
+side the collapsed remains of what was once a gold miner’s
+house. Not much is left: some broken crockery, shards of glass
+bottles, a few rusted tins. Back in Blair’s lively years, multiple
+saloons thrived nearby and a two- story hotel welcomed visi-
+tors. Now it’s a cluster of broken foundations.
+Through the space where a window used to be, the view
+stretches all the way down the valley. I’m struck by the real-
+ization that Silver Peak will also be a ghost town soon. The
+current draw on the lithium mine is aggressive in response to
+the high demand, and no one knows how long it will last. The
+most optimistic estimate is forty years, but the end may come
+much sooner. Then the lithium pools under the Clayton Val-
+ley will be exsanguinated—extracted for batteries that are des-
+tined for landfill. And Silver Peak will return to its previous
+life as an empty and quiet place, on the edge of an ancient salt
+lake, now drained.
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
+--- page 30 ---
+EBSCOhost: eBook Collection (EBSCOhost) printed on 5/14/2026 9:26:21 PM UTC via STANFORD UNIVERSITY LIBRARIES. All use subject to
+https://www.ebsco.com/terms-of-use.
