@@ -1,0 +1,68 @@
+{
+  "target": "2026-05-19",
+  "current": {
+    "date": "2026-05-20",
+    "weekday": "Wednesday",
+    "title": "",
+    "week_number": 8,
+    "week_title": "Environmental Justice",
+    "required": [
+      "[Balancing the Promise of Healthcare AI with Its Carbon Costs](https://news.cornell.edu/stories/2025/09/balancing-promise-health-ai-its-carbon-costs)",
+      "[Sustainable AI in medicine: navigating innovation, challenges, and environmental impa](https://pmc.ncbi.nlm.nih.gov/articles/PMC12754882/)ct"
+    ]
+  },
+  "previous": {
+    "date": "2026-05-18",
+    "weekday": "Monday",
+    "title": "",
+    "week_number": 8,
+    "week_title": "Environmental Justice",
+    "required": [
+      "Kate Crawford, [Atlas of AI, Chapter 1: Earth](https://research-ebsco-com.stanford.idm.oclc.org/c/qmsjx4/search/details/2dbvgctppz?request-context=plink&db=nlebk)",
+      "Keisha Ray and Jane Fallis Cooper. 2023. “[The Bioethics of Environmental Injustice: Ethical, Legal, and Clinical Implications of Unhealthy Environments](https://www.tandfonline.com/doi/full/10.1080/15265161.2023.2201192?casatoken=rVBXQMQ7qEAAAAA%3A-XFP4lUhm0XAGag6kd7dYWblTX-6KOXD1-nlMGdceF6nXj7vn-hGbvKKZc0W51F7hfHB4ZKrJi8AQAabstract).” The American Journal of Bioethics. ---"
+    ]
+  },
+  "readings": [
+    {
+      "session": "current",
+      "session_date": "2026-05-20",
+      "citation": "[Balancing the Promise of Healthcare AI with Its Carbon Costs](https://news.cornell.edu/stories/2025/09/balancing-promise-health-ai-its-carbon-costs)",
+      "matched_file": "/home/user/college117/files/08_Week 8: Environmental Justice/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.pdf",
+      "match_score": 0.333,
+      "external_only": false,
+      "text_file": "/home/user/college117/data/section_prep/2026-05-19/text/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.txt",
+      "chars": 57452
+    },
+    {
+      "session": "current",
+      "session_date": "2026-05-20",
+      "citation": "[Sustainable AI in medicine: navigating innovation, challenges, and environmental impa](https://pmc.ncbi.nlm.nih.gov/articles/PMC12754882/)ct",
+      "matched_file": "/home/user/college117/files/08_Week 8: Environmental Justice/Sustainable AI in Medicine.ExternalUrl.url",
+      "match_score": 0.536,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2509155"
+    },
+    {
+      "session": "previous",
+      "session_date": "2026-05-18",
+      "citation": "Kate Crawford, [Atlas of AI, Chapter 1: Earth](https://research-ebsco-com.stanford.idm.oclc.org/c/qmsjx4/search/details/2dbvgctppz?request-context=plink&db=nlebk)",
+      "matched_file": "/home/user/college117/files/08_Week 8: Environmental Justice/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.pdf",
+      "match_score": 0.8,
+      "external_only": false,
+      "text_file": "/home/user/college117/data/section_prep/2026-05-19/text/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.txt",
+      "chars": 57452
+    },
+    {
+      "session": "previous",
+      "session_date": "2026-05-18",
+      "citation": "Keisha Ray and Jane Fallis Cooper. 2023. “[The Bioethics of Environmental Injustice: Ethical, Legal, and Clinical Implications of Unhealthy Environments](https://www.tandfonline.com/doi/full/10.1080/15265161.2023.2201192?casatoken=rVBXQMQ7qEAAAAA%3A-XFP4lUhm0XAGag6kd7dYWblTX-6KOXD1-nlMGdceF6nXj7vn-hGbvKKZc0W51F7hfHB4ZKrJi8AQAabstract).” The American Journal of Bioethics. ---",
+      "matched_file": "/home/user/college117/files/08_Week 8: Environmental Justice/Keisha Ray and Jane Fallis Cooper. (2023). \"The Bioethics of Environmental Injustice.\".ExternalUrl.url",
+      "match_score": 0.675,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2509151"
+    }
+  ],
+  "lecture": null
+}
