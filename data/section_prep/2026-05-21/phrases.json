@@ -1,0 +1,65 @@
+{
+  "/home/user/college117/files/08_Week 8: Environmental Justice/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.pdf": {
+    "title": "Crawford — The Atlas of AI: Earth (Week 8)",
+    "argument": [
+      "The mining that makes AI is both literal and metaphorical.",
+      "The new extractivism of data mining also encompasses and propels the old extractivism of traditional mining.",
+      "none of that can function without the minerals and resources that build computing's core components",
+      "And AI extracts far more from us and the planet than is widely known.",
+      "The cloud is the backbone of the artificial intelligence industry, and it's made of rocks and lithium brine and crude oil.",
+      "Ignorance of the supply chain is baked into capitalism",
+      "Artificial intelligence is another kind of megamachine",
+      "The greatest benefits of extraction have been captured by the few.",
+      "Advanced computation is rarely considered in terms of carbon footprints, fossil fuels, and pollution",
+      "The massive ecosystem of AI relies on many kinds of extraction: from harvesting the data made from our daily activities and expressions, to depleting natural resources, and to exploiting labor around the globe"
+    ],
+    "evidence": [
+      "running only a single NLP model produced more than 660,000 pounds of carbon dioxide emissions",
+      "the carbon footprint of the world's computational infrastructure has matched that of the aviation industry at its height",
+      "One container ship is estimated to emit as much pollution as fifty million cars",
+      "sixty thousand deaths every year are attributed indirectly to cargo- ship- industry pollution",
+      "China supplies 95 percent of the world's rare earth minerals",
+      "Tesla is estimated to use more than twenty-eight thousand tons of lithium hydroxide annually—half of the planet's total consumption.",
+      "percent of the mined clay contains the valuable rare earth elements",
+      "the tech sector will contribute 14 percent of global greenhouse emissions by 2040",
+      "the average smartphone life span is a mere 4.7 years",
+      "China's data center industry draws 73 percent of its power from coal, emitting about 99 million tons of CO2 in 2018."
+    ],
+    "concept": [
+      "we will see the logics of extraction, a constant drawdown of minerals, water, and fossil fuels",
+      "the strategic amnesia that accompanies stories of technological progress",
+      "Brechin suggests that we should think of the skyscrapers of San Francisco as inverted minescapes.",
+      "in what Mazen Labban has called the \"planetary mine",
+      "The tendency toward \"compute maximalism\" has profound ecological impacts.",
+      "The author Rose George calls this condition \"sea blindness.\"",
+      "scholar Myra Hird calls \"the waste we want to forget.\"",
+      "Computational media now participate in geological (and climatological) processes",
+      "specific provision about so- called conflict minerals, or natural resources extracted in a conflict zone",
+      "full- stack supply chain of AI reaches into capital, labor, and Earth's resources"
+    ],
+    "application": [
+      "Silver Peak is perched on the edge of a massive underground lake of lithium.",
+      "The black lake contains more than 180 million tons of waste powder from ore processing.",
+      "the nearby Bayan Obo mines, which is estimated to contain almost 70 percent of the world's reserves of rare earth minerals",
+      "On these small islands, gray- market miners who are not officially employed sit on makeshift pontoons",
+      "the NSA initially refused to share usage data, redacted all details from public records",
+      "Intel's supply chain is complex, with more than sixteen thousand suppliers in over a hundred countries",
+      "The jungles of Malaysia and Singapore were stripped; by the early 1880s, the Palaquium gutta had vanished.",
+      "In 2014, Rockwood Holdings, Inc., a lithium mining operation, was acquired by the chemical manufacturing company Albemarle Corporation for $6.2 billion.",
+      "the city of Bluffdale had already made a multiyear deal with the NSA, in which the city would sell water at rates well below the average",
+      "the process produces 75,000 liters of acidic water and one ton of radioactive residue."
+    ],
+    "implication": [
+      "those who profit from mining do so only because the costs must be sustained by others, those living and those not yet born.",
+      "water that is used to cool servers is being taken away from communities and habitats that rely on it to live.",
+      "Silver Peak will also be a ghost town soon.",
+      "the lithium pools under the Clayton Valley will be exsanguinated—extracted for batteries that are destined for landfill.",
+      "The rapid growth of cloud-based computation, portrayed as environmentally friendly, has paradoxically driven an expansion of the frontiers of resource extraction.",
+      "Microsoft, Google, and Amazon all license their AI platforms, engineering workforces, and infrastructures to fossil fuel companies to help them locate and extract fuel from the ground",
+      "The lifecycle of an AI system from birth to death has many fractal supply chains: forms of exploitation of human labor and natural resources",
+      "The planetary nature of resource extraction and its consequences goes well beyond what the nation-state was designed to address.",
+      "algorithmic computing, computational statistics, and artificial intelligence were developed in the twentieth century to address social and environmental challenges but would later be used to intensify industrial extraction and exploitation and further deplete environmental resources.",
+      "The tech sector heavily publicizes its environmental policies, sustainability initiatives"
+    ]
+  }
+}
