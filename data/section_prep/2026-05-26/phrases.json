@@ -1,0 +1,66 @@
+{
+  "files/08_Week 8: Environmental Justice/KateCrawford_2021_ONE.Eartht_TheAtlasofAIPowerPoli.pdf": {
+    "title": "Crawford — Atlas of AI, Ch.1: Earth",
+    "argument": [
+      "the term \"artificial intelligence\" may invoke ideas of algorithms, data, and cloud architectures, but none of that can function without the minerals and resources that build computing's core components",
+      "The massive ecosystem of AI relies on many kinds of extraction: from harvesting the data made from our daily activities and expressions, to depleting natural resources, and to exploiting labor around the globe",
+      "AI extracts far more from us and the planet than is widely known",
+      "reaches into capital, labor, and Earth's resources—and from each, it demands an enormous amount",
+      "From the perspective of deep time, we are extracting Earth's geological history to serve a split second of contemporary technological time",
+      "the business of mining has only been profitable because it does not have to account for its true costs: including environmental damage, the illness and death of miners, and the loss to the communities it displaces",
+      "Artificial intelligence is another kind of megamachine, a set of technological approaches that depend on industrial infrastructures, supply chains, and human labor that stretch around the globe but are kept opaque",
+      "the corporate imaginaries of AI fail to depict the lasting costs and long histories of the materials needed to build computational infrastructures or the energy required to power them",
+      "The greatest benefits of extraction have been captured by the few",
+      "The extractivism on which San Francisco was built is echoed in the practices of the tech sector based there today"
+    ],
+    "evidence": [
+      "Silver Peak is perched on the edge of a massive underground lake of lithium",
+      "Tesla is estimated to use more than twenty-eight thousand tons of lithium hydroxide annually—half of the planet's total consumption",
+      "China supplies 95 percent of the world's rare earth minerals",
+      "99.8 percent of earth removed in rare earth mining is discarded as waste, called 'tailings,' that are dumped back into the hills and streams",
+      "the process produces 75,000 liters of acidic water and one ton of radioactive residue",
+      "the carbon footprint of the world's computational infrastructure has matched that of the aviation industry at its height",
+      "Strubell's team found that running only a single NLP model produced more than 660,000 pounds of carbon dioxide emissions",
+      "One container ship is estimated to emit as much pollution as fifty million cars",
+      "China's data center industry draws 73 percent of its power from coal, emitting about 99 million tons of CO2 in 2018",
+      "the average smartphone life span is a mere 4.7 years",
+      "were paid little for the dangerous work of felling the trees and slowly collecting the latex",
+      "In 1906, the Pittsburgh Silver Peak Gold Mining Company bought up the mines in the area"
+    ],
+    "concept": [
+      "The new extractivism of data mining also encompasses and propels the old extractivism of traditional mining",
+      "Computational media now participate in geological (and climatological) processes",
+      "the planetary mine expands and reconstitutes extraction into novel arrangements, extending the practices of mines into new spaces and interactions around the world",
+      "metaphors like \"the cloud\" imply something floating and delicate within a natural, green industry",
+      "converts water and electricity into computational power, leaving a sizable amount of environmental damage",
+      "we should think of the skyscrapers of San Francisco as inverted minescapes",
+      "the left hand cannot know what the right hand is doing, which requires increasingly lavish, baroque, and complex forms of distancing",
+      "Ignorance of the supply chain is baked into capitalism",
+      "the megamachine to illustrate how all systems, no matter how immense, consist of the work of many individual human actors",
+      "sea blindness"
+    ],
+    "application": [
+      "The routes of submarine cables today still mark out the early colonial networks between the centers and the peripheries of empire",
+      "the dirty work of the mining sector was far removed from the companies and city dwellers who profited most",
+      "Intel and Apple have been criticized for auditing only smelters",
+      "Microsoft, Google, and Amazon all license their AI platforms, engineering workforces, and infrastructures to fossil fuel companies to help them locate and extract fuel from the ground",
+      "the United Nations special rapporteur on adequate housing called it an \"unacceptable\" human rights violation",
+      "Companies using gold, tin, tungsten, and tantalum from the region around the Democratic Republic of the Congo now had a reporting requirement to track where those minerals came from",
+      "the city of Bluffdale had already made a multiyear deal with the NSA, in which the city would sell water at rates well below the average in return for the promise of economic growth",
+      "Apple and Google claiming to be carbon neutral (which means they offset their carbon emissions by purchasing credits)",
+      "rather than what they see as buying indulgences out of environmental guilt"
+    ],
+    "implication": [
+      "The rapid growth of cloud-based computation, portrayed as environmentally friendly, has paradoxically driven an expansion of the frontiers of resource extraction",
+      "Finding fresh methods for understanding the deep material and human roots of AI systems is vital at this moment in history, when the impacts of anthropogenic climate change are already well under way",
+      "Just as Victorians precipitated ecological disaster for their early cables, so do contemporary mining and global supply chains further imperil the delicate ecological balance of our era",
+      "Silver Peak will also be a ghost town soon",
+      "the lithium pools under the Clayton Valley will be exsanguinated—extracted for batteries that are destined for landfill",
+      "By thinking about these issues together that we can work toward greater justice",
+      "The tech sector heavily publicizes its environmental policies, sustainability initiatives",
+      "the tendency toward \"compute maximalism\" has profound ecological impacts",
+      "those who profit from mining do so only because the costs must be sustained by others, those living and those not yet born",
+      "the scale required to build artificial intelligence systems is too complex, too obscured by intellectual property law, and too mired in logistical and technical complexity for us to see into it all"
+    ]
+  }
+}
