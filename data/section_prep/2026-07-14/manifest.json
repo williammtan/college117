@@ -1,0 +1,56 @@
+{
+  "target": "2026-07-14",
+  "current": {
+    "date": "2026-06-03",
+    "weekday": "Wednesday",
+    "title": "Wrap-Up & Final Project Presentations",
+    "week_number": 10,
+    "week_title": "Wrap-up & Final Reflection",
+    "required": []
+  },
+  "previous": {
+    "date": "2026-05-27",
+    "weekday": "Wednesday",
+    "title": "Data Ownership (Indigenous Nations examples)",
+    "week_number": 9,
+    "week_title": "Community-Led Justice",
+    "required": [
+      "Anderson MZ, Tsosie KS, Peters CL, Trinidad SB, Mc Cartney A, Fernandez S, Dale KJ, Perez Rivera S, Banta C, Bhattacharyya O, Billy J, Brennan R, Cu K Ba'ak R, Dhein K, Dickinson R, Ducheneaux G, Gerth A, Hernandez-Hernandez K, Howard DS, Parasidis E, Thomas NA, Yracheta JM. A Tribal data repository to advance Indigenous health and sovereignty. Nat Genet. 2025 Nov;57(11):2614-2619 [https://www.nature.com/articles/s41588-025-02382-0](https://www.nature.com/articles/s41588-025-02382-0)",
+      "Mello, M. M., & Wolf, L. E. (2010). The Havasupai Indian Tribe Case—Lessons for Research Involving Stored Biologic Samples. New England Journal of Medicine, 363(3), 204–207. [https://doi.org/10.1056/NEJMp1005203](https://doi.org/10.1056/NEJMp1005203)",
+      "CARE Principles for Indigenous Data Governance [https://www.gida-global.org/s/CAREPrinciplesOnePagersFINALOct172019.pdf](https://www.gida-global.org/s/CAREPrinciplesOnePagersFINALOct172019.pdf)"
+    ]
+  },
+  "readings": [
+    {
+      "session": "previous",
+      "session_date": "2026-05-27",
+      "citation": "Anderson MZ, Tsosie KS, Peters CL, Trinidad SB, Mc Cartney A, Fernandez S, Dale KJ, Perez Rivera S, Banta C, Bhattacharyya O, Billy J, Brennan R, Cu K Ba'ak R, Dhein K, Dickinson R, Ducheneaux G, Gerth A, Hernandez-Hernandez K, Howard DS, Parasidis E, Thomas NA, Yracheta JM. A Tribal data repository to advance Indigenous health and sovereignty. Nat Genet. 2025 Nov;57(11):2614-2619 [https://www.nature.com/articles/s41588-025-02382-0](https://www.nature.com/articles/s41588-025-02382-0)",
+      "matched_file": "/home/user/college117/files/09_Week 9: Community-Led Justice/Anderson M.Z., et al., \"A Tribal data repository to advance Indigenous health and sovereignty.\".ExternalUrl.url",
+      "match_score": 0.194,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2509175"
+    },
+    {
+      "session": "previous",
+      "session_date": "2026-05-27",
+      "citation": "Mello, M. M., & Wolf, L. E. (2010). The Havasupai Indian Tribe Case—Lessons for Research Involving Stored Biologic Samples. New England Journal of Medicine, 363(3), 204–207. [https://doi.org/10.1056/NEJMp1005203](https://doi.org/10.1056/NEJMp1005203)",
+      "matched_file": "/home/user/college117/files/09_Week 9: Community-Led Justice/Michelle M. Mello and Leslie E. Wolf. \"The Havasupai Indian Tribe Case — Lessons for Research Involving Stored Biologic Samples.\".ExternalUrl.url",
+      "match_score": 0.838,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2504847"
+    },
+    {
+      "session": "previous",
+      "session_date": "2026-05-27",
+      "citation": "CARE Principles for Indigenous Data Governance [https://www.gida-global.org/s/CAREPrinciplesOnePagersFINALOct172019.pdf](https://www.gida-global.org/s/CAREPrinciplesOnePagersFINALOct172019.pdf)",
+      "matched_file": "/home/user/college117/files/09_Week 9: Community-Led Justice/CARE Principles for Indigenous Data Governance.ExternalUrl.url",
+      "match_score": 0.85,
+      "external_only": true,
+      "text_file": null,
+      "external_url": "https://canvas.stanford.edu/api/v1/courses/225539/module_item_redirect/2504848"
+    }
+  ],
+  "lecture": null
+}
